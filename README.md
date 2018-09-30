@@ -3,7 +3,7 @@
 # [jQuery] - TopButton
 \# Quick - Set up
 
-### License - MIT license ( http://opensource.org/licenses/MIT )
+### License - MIT license
 
 ![TopButton](./topButton.png)
 _ _ _
