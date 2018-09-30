@@ -17,7 +17,7 @@ $(document).ready(function(){
     //Top Button
     $.topbutton({
         htlm : "<i>Top</i>",      //String
-//      css : "width:50px; height:50px; background:#22b8cf; right:30px; bottom:30px; border:none; font-size:20px;", //String
+        css : "width:50px; height:50px; background:#22b8cf; border:none; font-size:20px;", //String
         scrollAndShow : false,    //Boolean
         scrollSpeed : 150         //Number
     });
